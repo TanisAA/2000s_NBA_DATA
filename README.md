@@ -9,7 +9,7 @@ All of the information stored is available in the form of csv files under the `d
 ## Data collected
 The first step was to decide what information I wanted to collect off of the website, and then finding that information in the source page to be able to extract it out with the `BeautifulSoap` package. The following two pictures show just this. The information stored for the `seasons` table (shown in red boxes):
 
-<img src = "https://github.com/TanisAA/2000s_NBA_Data/assets/91431371/e1ba7b30-4943-4eca-974d-112762849877" width = 65% height = 65%>
+<img src = "https://github.com/TanisAA/2000s_NBA_Data/assets/91431371/e1ba7b30-4943-4eca-974d-112762849877" width = 70% height = 70%>
 <img src = "https://github.com/TanisAA/2000s_NBA_Data/assets/91431371/2419c77c-f0c7-4ebc-bbe6-504016092901">
 <br>
 <br>  
@@ -18,7 +18,7 @@ The first step was to decide what information I wanted to collect off of the web
 
 The information for the `teams` table is showed below (in red boxes):
 
-<img src = "https://github.com/TanisAA/2000s_NBA_Data/assets/91431371/456eecb7-5ef3-48eb-a968-f030918ddd63" width = 65% height = 65%>
+<img src = "https://github.com/TanisAA/2000s_NBA_Data/assets/91431371/456eecb7-5ef3-48eb-a968-f030918ddd63" width = 70% height = 70%>
 <img src = "https://github.com/TanisAA/2000s_NBA_Data/assets/91431371/3f70c613-878b-4bfd-babe-58a385287c4b">
 
 ## Misc.

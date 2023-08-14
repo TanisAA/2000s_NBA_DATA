@@ -21,6 +21,10 @@ The information for the `teams` table is showed below (in red boxes):
 <img src = "https://github.com/TanisAA/2000s_NBA_Data/assets/91431371/456eecb7-5ef3-48eb-a968-f030918ddd63" width = 70% height = 70%>
 <img src = "https://github.com/TanisAA/2000s_NBA_Data/assets/91431371/3f70c613-878b-4bfd-babe-58a385287c4b">
 
+## Visualizing the data
+The visualizations were created using tableau public. Information displayed shows how the scoring and the pace of the game has changed over time, the best performing teams during the time period, and more. To interact with the dashboard visit [here](https://public.tableau.com/app/profile/tanis.anderson/viz/2000sNBAdata/2000sNBAData).
+![nba_tableau_dashboard](https://github.com/TanisAA/2000s_NBA_DATA/assets/91431371/11d816b7-76c2-47bb-9bb0-d37204150f99)
+
 ## Misc.
 The code provided can easily be adapted to store the data in file instead of in a database (such as a text or csv file). It is also possible to create more loops to make the web scraping more automated; such as adding a loop that iterates through an array of team symbols along with each season. 
 The current method of extracting the team stats data out of the html comment is not the most optimal, but it works. Another method is possible and is being tested. 
